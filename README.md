@@ -1,1 +1,1 @@
-# admin-dashboard
+A full-featured React.js dashboard application designed for managing users, sales products, and statistics with secure authentication and dynamic routing. Implemented user authentication (login, signup, forget password) and Protected Routes using React Router. Created dashboard layout with nested routes for pages like Home, Sales Product, Trending, Users, and Settings. Used modular components for maintainable and reusable UI design. Added Logout functionality and a Landing Page for visitors before login.
